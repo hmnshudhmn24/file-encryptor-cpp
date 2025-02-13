@@ -35,6 +35,3 @@ file_encryptor/
 
 ## Requirements
 - C++ compiler (GCC, Clang, MSVC)
-
-## Author
-Himanshu Dhiman
